@@ -1,4 +1,4 @@
-Exemplo de Codigo Soma
+Exemplo de Codigo Soma 1
 
 function calcular() {
     var num1 = Number(document.getElementById("num1").value);
@@ -11,3 +11,9 @@ function calcular() {
     else { // IE
        elemResult.innerText = "O resultado é " + String(num1 + num2) + ".";
     }
+
+Exemplo de codigo 2
+
+5 + 10 * 3;
+(num2 % 9) * num1;
+num2 + num1 / 8 + 2;
